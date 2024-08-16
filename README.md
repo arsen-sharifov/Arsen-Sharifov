@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/Sharifov-Arsen">
-    <img src="https://komarev.com/ghpvc/?username=Sharifov Arsen" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=Sharifov-Arsen" alt="page views" />
   </a>
   <a href="https://linkedin.com/in/arsen-sharifov">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
