@@ -2,7 +2,7 @@
 <h3 align="left">Frontend Developer with 3+ years of experience</h3>
 
 <p align="left">
-  <a href="https://github.com/[YourGitHubUsername]">
+  <a href="https://github.com/Sharifov-Arsen">
     <img src="https://komarev.com/ghpvc/?username=Sharifov Arsen" alt="page views" />
   </a>
   <a href="https://linkedin.com/in/arsen-sharifov">
@@ -10,8 +10,8 @@
   </a>
 </p>
 
-<a href="https://github.com/[YourGitHubUsername]">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=dracula" align="right" width="50%"/>
+<a href="https://github.com/Sharifov-Arsen">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="right" width="50%"/>
 </a>
 
 - 🌱 Currently working on a social network project
@@ -37,8 +37,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
       <br>SASS
     </td>
-   <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
     <td align="center" width="96">
@@ -69,10 +69,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="left">:bar_chart: Coding Activity in the Last Month</h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
