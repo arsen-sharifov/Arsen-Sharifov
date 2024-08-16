@@ -17,8 +17,9 @@
 
 ---
 <a href="https://github.com/Sharifov-Arsen">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" />
 </a>
+
 ---
 <h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
 
