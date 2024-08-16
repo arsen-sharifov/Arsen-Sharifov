@@ -10,17 +10,16 @@
   </a>
 </p>
 
-<a href="https://github.com/Sharifov-Arsen">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="right" width="50%"/>
-</a>
-
 - 🌱 Currently working on a social network project
 - 💼 Tech stack: HTML/CSS/SASS/SCSS, TailwindCSS, React, JavaScript/TypeScript, Git, GitHub/GitLab etc
 - 🔍 Interested in modern frontend technologies and UI/UX design
 - 📫 How to reach me: arsen.sharifov.0@gmail.com
 
 ---
-
+<a href="https://github.com/Sharifov-Arsen">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%"/>
+</a>
+---
 <h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
 
 <table>
