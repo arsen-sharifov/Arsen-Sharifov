@@ -1,15 +1,12 @@
-<h1 align="left">Hi there! I'm [Your Name] 👋</h1>
+<h1 align="left">Hi there! I'm Arsen 👋</h1>
 <h3 align="left">Frontend Developer with 3+ years of experience</h3>
 
 <p align="left">
   <a href="https://github.com/[YourGitHubUsername]">
-    <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=Sharifov Arsen" alt="page views" />
   </a>
-  <a href="https://linkedin.com/in/[YourLinkedIn]">
+  <a href="https://linkedin.com/in/arsen-sharifov">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/[YourGitHubUsername]?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/[YourGitHubUsername]?style=flat&logo=github">
   </a>
 </p>
 
@@ -18,9 +15,8 @@
 </a>
 
 - 🌱 Currently working on a social network project
-- 💼 Tech stack: HTML/CSS/SASS/SCSS, TailwindCSS, React, JavaScript/TypeScript, Git, GitHub/GitLab
+- 💼 Tech stack: HTML/CSS/SASS/SCSS, TailwindCSS, React, JavaScript/TypeScript, Git, GitHub/GitLab etc
 - 🔍 Interested in modern frontend technologies and UI/UX design
-- 💬 Ask me anything about frontend development
 - 📫 How to reach me: arsen.sharifov.0@gmail.com
 
 ---
@@ -41,8 +37,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
       <br>SASS
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+   <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
     <td align="center" width="96">
