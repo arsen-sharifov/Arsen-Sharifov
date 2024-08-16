@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🌱 Currently working on a social network project
+- 🌱 Currently working on a social network project - [wolfy.space](https://github.com/Sharifov-Arsen/wolfy.space)
 - 💼 Tech stack: HTML/CSS/SASS/SCSS, TailwindCSS, React, JavaScript/TypeScript, Git, GitHub/GitLab etc
 - 🔍 Interested in modern frontend technologies and UI/UX design
 - 📫 How to reach me: arsen.sharifov.0@gmail.com
