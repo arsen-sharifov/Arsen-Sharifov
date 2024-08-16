@@ -18,7 +18,7 @@
 ---
 
 <a href="https://github.com/Sharifov-Arsen">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" height="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="80%" />
 </a>
 
 ---
