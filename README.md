@@ -17,12 +17,6 @@
 
 ---
 
-<a href="https://github.com/Sharifov-Arsen">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="80%" />
-</a>
-
----
-
 <h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
 
 <table>
@@ -72,5 +66,12 @@
   </tr>
 </table>
 
+---
+
+<a href="https://github.com/Sharifov-Arsen">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" />
+</a>
+
+---
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
