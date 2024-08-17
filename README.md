@@ -52,6 +52,14 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant-design/ant-design-original.svg" width="48" height="48" alt="Ant Design" />
+      <br>Ant Design
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -63,8 +71,39 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" />
+      <br>ESLint
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier" />
+      <br>Prettier
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asana/asana-original.svg" width="48" height="48" alt="Asana" />
+      <br>Asana
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
+      <br>VS Code
+    </td>
   </tr>
 </table>
+
+---
+
+<h2 align="left">:chart_with_upwards_trend: Code Stats</h2>
+
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf" width="45%" />
+</div>
 
 ---
 
