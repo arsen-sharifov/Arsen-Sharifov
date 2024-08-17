@@ -113,7 +113,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" />
 </a>
 
-<br><br>
 
 <h2 align="left">:chart_with_upwards_trend: CodeWars/LeetCode Stats</h2>
 
