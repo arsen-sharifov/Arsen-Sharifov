@@ -113,12 +113,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" />
 </a>
 
+<br><br>
 
 <h2 align="left">:chart_with_upwards_trend: CodeWars/LeetCode Stats</h2>
 
-<div align="center">
-  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" align="left" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?ext=heatmap" align="right" width="48%" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" align="left" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?ext=heatmap" align="right" width="49%" />
 </div>
 
 ---
