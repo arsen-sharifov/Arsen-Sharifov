@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
+<h2 align="left">:hammer_and_wrench: Front-End Technologies</h2>
 
 <table>
   <tr>
@@ -34,6 +34,10 @@
       <br>SASS
     </td>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg" width="48" height="48" alt="SCSS" />
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
@@ -45,12 +49,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
       <br>Material UI
@@ -59,6 +63,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant-design/ant-design-original.svg" width="48" height="48" alt="Ant Design" />
       <br>Ant Design
     </td>
+  </tr>
+</table>
+
+<h2 align="left">:gear: Development Tools / Tools</h2>
+
+<table>
+  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       <br>Git
@@ -79,8 +90,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier" />
       <br>Prettier
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       <br>Jira
@@ -100,16 +109,16 @@
 
 <h2 align="left">:chart_with_upwards_trend: Code Stats</h2>
 
-<div align="center">
-  <img src="https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="45%" />
-  <img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf" width="45%" />
-</div>
-
----
-
 <a href="https://github.com/Sharifov-Arsen">
   <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" />
 </a>
+
+---
+
+<div align="center">
+  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="45%" />
+  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?theme=wtf" width="45%" />
+</div>
 
 ---
 <!--START_SECTION:waka-->
