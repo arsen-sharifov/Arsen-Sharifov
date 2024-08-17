@@ -60,7 +60,7 @@
       <br>Material UI
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Ant_Design_Logo.svg" width="48" height="48" alt="Ant Design" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ant-design/ant-design-original.svg" width="48" height="48" alt="Ant Design" />
       <br>Ant Design
     </td>
   </tr>
@@ -95,7 +95,7 @@
       <br>Jira
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Asana_logo.svg" width="48" height="48" alt="Asana" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/asana/asana-original.svg" width="48" height="48" alt="Asana" />
       <br>Asana
     </td>
     <td align="center" width="96">
@@ -113,13 +113,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" />
 </a>
 
----
+<br><br>
 
 <h2 align="left">:chart_with_upwards_trend: CodeWars/LeetCode Stats</h2>
 
 <div align="center">
-  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" width="50%" />
-  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?ext=heatmap" width="50%" />
+  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" align="left" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?ext=heatmap" align="right" width="48%" />
 </div>
 
 ---
