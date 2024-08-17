@@ -34,7 +34,7 @@
       <br>SASS
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg" width="48" height="48" alt="SCSS" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SCSS" />
       <br>SCSS
     </td>
     <td align="center" width="96">
@@ -60,7 +60,7 @@
       <br>Material UI
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ant-design/ant-design-original.svg" width="48" height="48" alt="Ant Design" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Ant_Design_Logo.svg" width="48" height="48" alt="Ant Design" />
       <br>Ant Design
     </td>
   </tr>
@@ -87,7 +87,7 @@
       <br>ESLint
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" width="48" height="48" alt="Prettier" />
+      <img src="https://prettier.io/icon.png" width="48" height="48" alt="Prettier" />
       <br>Prettier
     </td>
     <td align="center" width="96">
@@ -95,7 +95,7 @@
       <br>Jira
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asana/asana-original.svg" width="48" height="48" alt="Asana" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Asana_logo.svg" width="48" height="48" alt="Asana" />
       <br>Asana
     </td>
     <td align="center" width="96">
@@ -107,7 +107,7 @@
 
 ---
 
-<h2 align="left">:chart_with_upwards_trend: Code Stats</h2>
+<h2 align="left">:chart_with_upwards_trend: GitHub Stats </h2>
 
 <a href="https://github.com/Sharifov-Arsen">
   <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" />
@@ -115,9 +115,11 @@
 
 ---
 
+<h2 align="left">:chart_with_upwards_trend: CodeWars/LeetCode Stats</h2>
+
 <div align="center">
-  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" width="45%" />
-  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?theme=wtf" width="45%" />
+  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" width="50%" />
+  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?ext=heatmap" width="50%" />
 </div>
 
 ---
