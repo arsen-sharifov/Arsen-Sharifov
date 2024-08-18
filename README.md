@@ -41,11 +41,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+
+  </tr>
+      <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
       <br>Material UI
     </td>
-  </tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/arsen-sharifov/IconsHub/de7617d4eeea5e8bba7bca5d8660a42c7c901a93/icons/Frameworks%20and%20Libraries/antdesign.svg" width="48" height="48" alt="Ant Design" />
       <br>Ant Design
@@ -85,7 +86,9 @@
       <img src="https://raw.githubusercontent.com/arsen-sharifov/IconsHub/de7617d4eeea5e8bba7bca5d8660a42c7c901a93/icons/Project%20Management%20Systems/asana.svg" width="48" height="48" alt="Asana" />
       <br>Asana
     </td>
-    <td align="center" width="96">
+  </tr>
+  <tr>
+      <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
       <br>VS Code
     </td>
