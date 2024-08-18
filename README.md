@@ -22,12 +22,8 @@
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
-      <br>SASS
-    </td>
-    <td align="center" width="96">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SCSS" />
-      <br>SCSS
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SASS/SCSS" />
+      <br>SASS/SCSS
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="TailwindCSS" />
@@ -41,8 +37,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
@@ -51,8 +45,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
       <br>Material UI
     </td>
+  </tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ant-design/ant-design-original.svg" width="48" height="48" alt="Ant Design" />
+      <img src="https://raw.githubusercontent.com/arsen-sharifov/IconsHub/de7617d4eeea5e8bba7bca5d8660a42c7c901a93/icons/Frameworks%20and%20Libraries/antdesign.svg" width="48" height="48" alt="Ant Design" />
       <br>Ant Design
     </td>
   </tr>
@@ -87,7 +82,7 @@
       <br>Jira
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/asana/asana-original.svg" width="48" height="48" alt="Asana" />
+      <img src="https://raw.githubusercontent.com/arsen-sharifov/IconsHub/de7617d4eeea5e8bba7bca5d8660a42c7c901a93/icons/Project%20Management%20Systems/asana.svg" width="48" height="48" alt="Asana" />
       <br>Asana
     </td>
     <td align="center" width="96">
@@ -102,7 +97,7 @@
 <h2 align="left">:chart_with_upwards_trend: GitHub Stats </h2>
 
 <a href="https://github.com/Sharifov-Arsen">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharifov-Arsen&show_icons=true&theme=dracula" align="left" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arsen-sharifov&show_icons=true&theme=dracula" align="left" width="100%" />
 </a>
 
 &nbsp;
