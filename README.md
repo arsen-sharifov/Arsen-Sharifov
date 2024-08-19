@@ -105,6 +105,6 @@
 <h2 align="left">:chart_with_upwards_trend: CodeWars/LeetCode Stats</h2>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&theme=gradient" width="50%" />
-  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?border=0&radius=20&theme=nord" width="50%" />
+  <img src="https://github.r2v.ch/codewars?user=Arsen%20Sharifov&theme=gradient" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/arsen_sharifov?border=0&radius=20&theme=nord" width="49%" />
 </div>
