@@ -7,7 +7,7 @@
 
 - 🌱 Currently working on a social network project:
     <ul>
-      <li>Social Network - <a href="https://github.com/Sharifov-Arsen/wolfy.space">wolfy.space</a></li>
+      <li>Social Network - <a href="https://github.com/Sharifov-Arsen/wolfy.space">Wolfy.Space</a></li>
       <li>Icons library - <a href="https://github.com/arsen-sharifov/IconsHub">IconsHub</a></li>
       <li>UI Library - <a href="https://github.com/arsen-sharifov/ImpressiveUI">ImpressiveUI</a></li>
     </ul>   
