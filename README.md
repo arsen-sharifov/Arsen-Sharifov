@@ -1,7 +1,10 @@
 <h1 align="left">Hi there! I'm Arsen 👋</h1>
 <h3 align="left">Frontend Developer with 3+ years of experience</h3>
 
-- 🌱 Currently working on a social network project - [wolfy.space](https://github.com/Sharifov-Arsen/wolfy.space) & icons library [IconsHub](https://github.com/arsen-sharifov/IconsHub)
+- 🌱 Currently working on a social network project:
+    ● Social Network - [wolfy.space](https://github.com/Sharifov-Arsen/wolfy.space)
+    ● Icons library - [IconsHub](https://github.com/arsen-sharifov/IconsHub)
+    ● UI Library - [ImpressiveUI]([https://github.com/arsen-sharifov/IconsHub](https://github.com/arsen-sharifov/ImpressiveUI)
 - 💼 Tech stack: HTML, CSS, SASS, SCSS, TailwindCSS, React, JavaScript, TypeScript, Git, GitHub/GitLab etc
 - 🔍 Interested in modern frontend technologies and UI/UX design
 - 📫 How to reach me: arsen.sharifov.0@gmail.com
