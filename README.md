@@ -1,15 +1,20 @@
+
+<h1 align="left">Hi there! I'm Arsen 👋</h1>
+<h3 align="left">Frontend Developer with 3+ years of experience</h3>
+
 <h1 align="left">Hi there! I'm Arsen 👋</h1>
 <h3 align="left">Frontend Developer with 3+ years of experience</h3>
 
 - 🌱 Currently working on a social network project:
     <ul>
-      <li>Social Network - [wolfy.space](https://github.com/Sharifov-Arsen/wolfy.space)</li>
-      <li>Icons library - [IconsHub](https://github.com/arsen-sharifov/IconsHub)</li>
-      <li>UI Library - [ImpressiveUI]([https://github.com/arsen-sharifov/IconsHub](https://github.com/arsen-sharifov/ImpressiveUI)</li>
+      <li>Social Network - <a href="https://github.com/Sharifov-Arsen/wolfy.space">wolfy.space</a></li>
+      <li>Icons library - <a href="https://github.com/arsen-sharifov/IconsHub">IconsHub</a></li>
+      <li>UI Library - <a href="https://github.com/arsen-sharifov/ImpressiveUI">ImpressiveUI</a></li>
     </ul>   
 - 💼 Tech stack: HTML, CSS, SASS, SCSS, TailwindCSS, React, JavaScript, TypeScript, Git, GitHub/GitLab etc
 - 🔍 Interested in modern frontend technologies and UI/UX design
 - 📫 How to reach me: arsen.sharifov.0@gmail.com
+
 
 ---
 
