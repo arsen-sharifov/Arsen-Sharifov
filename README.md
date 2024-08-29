@@ -10,7 +10,7 @@
     </ul>   
 - 🔍 Interested in modern frontend technologies and UI/UX design
 - 📫 How to reach me: arsen.sharifov.0@gmail.com
-- 💼 How to check my CV: [Wonderful CV](https://link-url-here.org](https://drive.google.com/file/d/1cSi4fAGzX6ptmKUdXrsu_zFc9JsDzOgY/view?usp=sharing)
+- 💼 How to check my CV: [Wonderful CV](https://drive.google.com/file/d/1cSi4fAGzX6ptmKUdXrsu_zFc9JsDzOgY/view?usp=sharing)
   
 ---
 
