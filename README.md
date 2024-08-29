@@ -2,20 +2,16 @@
 <h1 align="left">Hi there! I'm Arsen 👋</h1>
 <h3 align="left">Frontend Developer with 3+ years of experience</h3>
 
-<h1 align="left">Hi there! I'm Arsen 👋</h1>
-<h3 align="left">Frontend Developer with 3+ years of experience</h3>
-
 - 🌱 Currently working on a social network project:
     <ul>
       <li>Social Network - <a href="https://github.com/Sharifov-Arsen/wolfy.space">Wolfy.Space</a></li>
       <li>Icons library - <a href="https://github.com/arsen-sharifov/IconsHub">IconsHub</a></li>
       <li>UI Library - <a href="https://github.com/arsen-sharifov/ImpressiveUI">ImpressiveUI</a></li>
     </ul>   
-- 💼 Tech stack: HTML, CSS, SASS, SCSS, TailwindCSS, React, JavaScript, TypeScript, Git, GitHub/GitLab etc
 - 🔍 Interested in modern frontend technologies and UI/UX design
 - 📫 How to reach me: arsen.sharifov.0@gmail.com
-
-
+- 💼 How to check my CV: [Wonderful CV](https://link-url-here.org](https://drive.google.com/file/d/1cSi4fAGzX6ptmKUdXrsu_zFc9JsDzOgY/view?usp=sharing)
+  
 ---
 
 <h2 align="left">:hammer_and_wrench: Front-End Technologies</h2>
