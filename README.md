@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="SASS/SCSS" />
-      <br>SASS/SCSS
+      <br>Sass/Scss
     </td>
     <td align="center" width="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" width="48" height="48" alt="Less" />
