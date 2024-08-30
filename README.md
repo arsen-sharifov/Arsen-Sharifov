@@ -1,4 +1,5 @@
 
+
 <h1 align="left">Hi there! I'm Arsen 👋</h1>
 <h3 align="left">Frontend Developer with 3+ years of experience</h3>
 
@@ -31,6 +32,10 @@
       <br>SASS/SCSS
     </td>
     <td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" width="48" height="48" alt="Less" />
+  <br>Less
+</td>
+    <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
@@ -46,12 +51,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/arsen-sharifov/IconsHub/de7617d4eeea5e8bba7bca5d8660a42c7c901a93/icons/Frameworks%20and%20Libraries/antdesign.svg" width="48" height="48" alt="Ant Design" />
       <br>Ant Design
