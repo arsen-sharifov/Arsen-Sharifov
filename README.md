@@ -123,14 +123,6 @@
       <img src="https://raw.githubusercontent.com/arsen-sharifov/IconsHub/58da0d4811de31d465eaf00e954f17db3d2dd12b/icons/Operating%20Systems/linux.svg" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/arsen-sharifov/IconsHub/58da0d4811de31d465eaf00e954f17db3d2dd12b/icons/Operating%20Systems/fedora.svg" width="48" height="48" alt="Fedora" />
-      <br>Fedora
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/arsen-sharifov/IconsHub/58da0d4811de31d465eaf00e954f17db3d2dd12b/icons/Operating%20Systems/nobara.svg" width="48" height="48" alt="Nobara" />
-      <br>Nobara
-    </td>
   </tr>
 </table>
 
