@@ -1,0 +1,338 @@
+{
+"backend-data/graphql": {
+"w": 111.527,
+"h": 125.312,
+"x": 8.236,
+"y": 1.344
+},
+"backend-data/nodejs": {
+"w": 111.713,
+"h": 128.0,
+"x": 8.143,
+"y": -0.0
+},
+"backend-data/postgresql": {
+"w": 118.802,
+"h": 122.512,
+"x": 4.864,
+"y": 2.744
+},
+"backend-data/rest": {
+"w": 14.0,
+"h": 15.2,
+"x": 5.0,
+"y": 4.4
+},
+"backend-data/supabase": {
+"w": 124.621,
+"h": 127.997,
+"x": 1.69,
+"y": 0.002
+},
+"backend-data/websocket": {
+"w": 18,
+"h": 12.8,
+"x": 3,
+"y": 5.6
+},
+"languages-frameworks/css3": {
+"w": 110.48,
+"h": 125.297,
+"x": 8.76,
+"y": 1.352
+},
+"languages-frameworks/dnd-kit": {
+"w": 20.0,
+"h": 20.0,
+"x": 2.0,
+"y": 2.0
+},
+"languages-frameworks/html5": {
+"w": 109.936,
+"h": 124.678,
+"x": 9.032,
+"y": 1.661
+},
+"languages-frameworks/i18n": {
+"w": 18.8,
+"h": 18.8,
+"x": 2.6,
+"y": 2.6
+},
+"languages-frameworks/javascript": {
+"w": 125.184,
+"h": 125.185,
+"x": 1.408,
+"y": 1.408
+},
+"languages-frameworks/nextjs-dark": {
+"w": 128,
+"h": 128,
+"x": 0,
+"y": 0
+},
+"languages-frameworks/nextjs": {
+"w": 128,
+"h": 128,
+"x": 0,
+"y": 0
+},
+"languages-frameworks/react-flow-dark": {
+"w": 34,
+"h": 34,
+"x": 3,
+"y": 3
+},
+"languages-frameworks/react-flow": {
+"w": 34,
+"h": 34,
+"x": 3,
+"y": 3
+},
+"languages-frameworks/react": {
+"w": 125.2,
+"h": 111.8,
+"x": 1.4,
+"y": 8.1
+},
+"languages-frameworks/redux": {
+"w": 127.997,
+"h": 121.52,
+"x": 0.003,
+"y": 3.24
+},
+"languages-frameworks/typescript": {
+"w": 125,
+"h": 125,
+"x": 1.5,
+"y": 1.41
+},
+"languages-frameworks/zustand": {
+"w": 127.999,
+"h": 125.807,
+"x": 0.001,
+"y": 1.096
+},
+"operating-systems/linux": {
+"w": 107.282,
+"h": 124.554,
+"x": 10.359,
+"y": 1.723
+},
+"operating-systems/macos-dark": {
+"w": 101.158,
+"h": 124.234,
+"x": 13.421,
+"y": 1.883
+},
+"operating-systems/macos": {
+"w": 101.158,
+"h": 124.234,
+"x": 13.421,
+"y": 1.883
+},
+"operating-systems/windows": {
+"w": 124.39,
+"h": 124.726,
+"x": 1.61,
+"y": 1.637
+},
+"styling-design/accessibility": {
+"w": 18.8,
+"h": 18.8,
+"x": 2.6,
+"y": 2.6
+},
+"styling-design/ant-design": {
+"w": 127.25,
+"h": 127.172,
+"x": 0.42,
+"y": 0.409
+},
+"styling-design/css-modules": {
+"w": 18.8,
+"h": 17.2,
+"x": 2.6,
+"y": 3.4
+},
+"styling-design/figma": {
+"w": 86,
+"h": 129,
+"x": 24,
+"y": 0
+},
+"styling-design/material-ui": {
+"w": 127.7,
+"h": 101.2,
+"x": 0.2,
+"y": 13.4
+},
+"styling-design/sass": {
+"w": 125.554,
+"h": 93.902,
+"x": 1.219,
+"y": 17
+},
+"styling-design/storybook": {
+"w": 100.001,
+"h": 124.589,
+"x": 13.999,
+"y": 2.0
+},
+"styling-design/tailwindcss": {
+"w": 128.0,
+"h": 76.796,
+"x": 0.004,
+"y": 25.602
+},
+"testing-quality/eslint": {
+"w": 128.001,
+"h": 112.63,
+"x": -0.0,
+"y": 7.685
+},
+"testing-quality/jest": {
+"w": 21.821,
+"h": 24,
+"x": 1.09,
+"y": 0
+},
+"testing-quality/playwright": {
+"w": 110.463,
+"h": 82.773,
+"x": 7.253,
+"y": 24.144
+},
+"testing-quality/prettier": {
+"w": 20.571,
+"h": 24,
+"x": 1.714,
+"y": 0
+},
+"testing-quality/sonarqube": {
+"w": 128,
+"h": 123.876,
+"x": 0,
+"y": 2.062
+},
+"testing-quality/testing-library": {
+"w": 23.969,
+"h": 24,
+"x": 0.015,
+"y": 0
+},
+"testing-quality/vitest": {
+"w": 128.024,
+"h": 116.771,
+"x": 0.008,
+"y": 5.414
+},
+"tooling-observability/core-web-vitals": {
+"w": 20.0,
+"h": 16.25,
+"x": 2.0,
+"y": 2.75
+},
+"tooling-observability/git": {
+"w": 126.236,
+"h": 126.234,
+"x": 0.883,
+"y": 0.883
+},
+"tooling-observability/github-actions": {
+"w": 128,
+"h": 128,
+"x": 0,
+"y": 0
+},
+"tooling-observability/gitlab": {
+"w": 125.698,
+"h": 121.068,
+"x": 1.151,
+"y": 3.466
+},
+"tooling-observability/jenkins": {
+"w": 92.574,
+"h": 128.001,
+"x": 17.714,
+"y": -0.001
+},
+"tooling-observability/jira": {
+"w": 96,
+"h": 96,
+"x": 16,
+"y": 16
+},
+"tooling-observability/posthog-dark": {
+"w": 51.668,
+"h": 27.999,
+"x": 0.001,
+"y": 0
+},
+"tooling-observability/posthog": {
+"w": 51.668,
+"h": 27.999,
+"x": 0.001,
+"y": 0
+},
+"tooling-observability/sentry-dark": {
+"w": 80.044,
+"h": 71.302,
+"x": -0.007,
+"y": 4.398
+},
+"tooling-observability/sentry": {
+"w": 80.044,
+"h": 71.302,
+"x": -0.007,
+"y": 4.398
+},
+"tooling-observability/vite": {
+"w": 122.284,
+"h": 122.436,
+"x": 2.886,
+"y": 1.4
+},
+"tooling-observability/vscode": {
+"w": 128.078,
+"h": 127.34,
+"x": -0.078,
+"y": 0.33
+},
+"tooling-observability/webpack": {
+"w": 113.58,
+"h": 126,
+"x": 7.21,
+"y": 1
+},
+"tooling-observability/github": {
+"w": 120.77700195312501,
+"h": 117.793779296875,
+"x": 3.61199951171875,
+"y": 5.103000183105469
+},
+"tooling-observability/github-dark": {
+"w": 120.77700195312501,
+"h": 117.793779296875,
+"x": 3.61199951171875,
+"y": 5.102998046875
+},
+"tooling-observability/bitbucket": {
+"w": 96.00140625,
+"h": 86.32000000000001,
+"x": 15.999298095703125,
+"y": 20
+},
+"styling-design/photoshop": {
+"w": 128,
+"h": 124.8,
+"x": 0,
+"y": 1.6
+},
+"backend-data/sql": {
+"w": 14.599999694824218,
+"h": 18.200000610351562,
+"x": 4.699999694824219,
+"y": 2.9000001525878907
+}
+}
